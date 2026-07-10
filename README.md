@@ -11,7 +11,7 @@
 ![Streak](https://streak-stats.demolab.com?user=MihaiCulbida&theme=dark&hide_border=true&ring=EC4899&fire=EC4899&currStreakLabel=00AEEF&)
 
 # GitHub Trophies:
-![](https://github-trophies.vercel.app/?username=MihaiCulbida&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-trophies.vercel.app/?usernam
 ![snake gif](https://github.com/MihaiCulbida/MihaiCulbida/blob/output/github-snake-dark.svg)
 
 </div>
