@@ -1,7 +1,7 @@
 <svg width="500" height="50" xmlns="http://www.w3.org/2000/svg">
   <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
         font-family="Segoe UI, Helvetica, Arial, sans-serif"
-        font-size="28" font-weight="600" fill="#FFFFFF">
+        font-size="24" font-weight="600" fill="#FFFFFF">
     Personal GitHub Stats:
   </text>
 </svg>
