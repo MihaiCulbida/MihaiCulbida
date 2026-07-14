@@ -31,7 +31,7 @@
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td>
-      <img src="https://streak-stats.demolab.com?user=MihaiCulbida&background=0D1117&border=39D353&ring=39D353&fire=39D353&currStreakLabel=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=8B949E&dates=8B949E&hide_border=true" alt="GitHub Streak" height="150" />
+      <img src="https://streak-stats.demolab.com?user=MihaiCulbida&timezone=Europe/Chisinau&background=0D1117&border=39D353&ring=39D353&fire=39D353&currStreakLabel=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=8B949E&dates=8B949E&hide_border=true&v=2" alt="GitHub Streak" height="150" />
     </td>
     <td>
       <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MihaiCulbida&show_icons=true&bg_color=0D1117&title_color=58A6FF&icon_color=39D353&text_color=FFFFFF&hide_border=true" alt="GitHub Stats" height="150" />
