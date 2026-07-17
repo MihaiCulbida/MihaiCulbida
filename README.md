@@ -38,12 +38,15 @@
     </td>
   </tr>
 </table>
+<!--
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MihaiCulbida&layout=compact&bg_color=0D1117&title_color=58A6FF&icon_color=39D353&text_color=FFFFFF&hide_border=true" alt="Top Langs" height="150" />
+-->
 
 <!--
 ## GitHub Trophies:
 ![](https://github-trophies.vercel.app/?username=MihaiCulbida&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 -->
-![snake gif](https://github.com/MihaiCulbida/MihaiCulbida/blob/output/github-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/MihaiCulbida/MihaiCulbida/output/github-snake-dark.svg)
 
 </div>
 
