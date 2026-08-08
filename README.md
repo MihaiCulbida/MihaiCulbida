@@ -4,13 +4,13 @@
 
 <div align="center">
     
-**I'm currently working on BlitzIQ - a quiz app**
+**Student at a technical college in Moldova.**
+    
+**I'm currently working on BlitzIQ, a quiz app**
 
-**I'm looking to collaborate on web projects with creative front-end ideas**
+**I'm open to collaborating on web projects and building creative, user-friendly interfaces**
 
-**I'm looking for help with - Race game**
-
-**I'm currently learning JavaScript and TypeScript**
+**I'm currently learning JavaScript and TypeScript.**
 
 **Ask me about web dev, JS and UI/UX**
 
