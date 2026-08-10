@@ -4,7 +4,7 @@
 
 <div align="center">
     
-**Student at a technical college in Moldova.**
+**Student at the technical college of Moldova.**
     
 **I'm currently working on BlitzIQ, a quiz app**
 
