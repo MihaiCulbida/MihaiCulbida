@@ -6,7 +6,7 @@
     
 **Student at the technical college of Moldova.**
     
-**I'm currently working on BlitzIQ, a quiz app**
+**I'm currently working on UIpolis**
 
 **I'm open to collaborating on web projects and building creative, user-friendly interfaces**
 
