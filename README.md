@@ -43,6 +43,12 @@
 </table>
 
 <!--
+<p align="center">
+  <img src="https://github-readme-stats-seven-sandy-79.vercel.app/api/top-langs/?username=MihaiCulbida&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&hide_border=true" alt="Top Languages" />
+</p>
+-->
+
+<!--
 ## GitHub Trophies:
 ![](https://github-trophies.vercel.app/?username=MihaiCulbida&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 -->
