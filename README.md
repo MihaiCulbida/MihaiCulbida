@@ -41,9 +41,6 @@
     </td>
   </tr>
 </table>
-<!--
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MihaiCulbida&layout=compact&bg_color=0D1117&title_color=58A6FF&icon_color=39D353&text_color=FFFFFF&hide_border=true" alt="Top Langs" height="150" />
--->
 
 <!--
 ## GitHub Trophies:
