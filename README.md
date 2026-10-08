@@ -14,6 +14,8 @@
 
 **Ask me about web dev, JS and UI/UX**
 
+<!-- [![committers.top badge](https://user-badge.committers.top/moldova_public/MihaiCulbida.svg)](https://user-badge.committers.top/moldova_public/MihaiCulbida) -->
+
 <img src="https://raw.githubusercontent.com/MihaiCulbida/MihaiCulbida/main/assets/divider-line.svg" width="100%">
 
 <p align="center">
@@ -47,6 +49,7 @@
 ## GitHub Trophies:
 ![](https://github-trophies.vercel.app/?username=MihaiCulbida&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 -->
+
 ![snake gif](https://raw.githubusercontent.com/MihaiCulbida/MihaiCulbida/output/github-snake-dark.svg)
 
 </div>
