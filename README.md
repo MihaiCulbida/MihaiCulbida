@@ -14,8 +14,6 @@
 
 **Ask me about web dev, JS and UI/UX**
 
-<!-- [![committers.top badge](https://user-badge.committers.top/moldova_public/MihaiCulbida.svg)](https://user-badge.committers.top/moldova_public/MihaiCulbida) -->
-
 <img src="https://raw.githubusercontent.com/MihaiCulbida/MihaiCulbida/main/assets/divider-line.svg" width="100%">
 
 <p align="center">
@@ -55,5 +53,6 @@
 
 ![snake gif](https://raw.githubusercontent.com/MihaiCulbida/MihaiCulbida/output/github-snake-dark.svg)
 
+<p align="right"><a href="https://user-badge.committers.top/moldova_public/MihaiCulbida"><img src="https://user-badge.committers.top/moldova_public/MihaiCulbida.svg" alt="committers.top badge" /></a>&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=MihaiCulbida&color=007ec6&style=flat&label=Profile+Views" alt="Profile Views" /></p>
 </div>
 
