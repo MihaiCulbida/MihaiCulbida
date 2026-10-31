@@ -53,6 +53,6 @@
 
 ![snake gif](https://raw.githubusercontent.com/MihaiCulbida/MihaiCulbida/output/github-snake-dark.svg)
 
-<p align="right"><a href="https://user-badge.committers.top/moldova_public/MihaiCulbida"><img src="https://user-badge.committers.top/moldova_public/MihaiCulbida.svg" alt="committers.top badge" /></a>&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=MihaiCulbida&color=007ec6&style=flat&label=Profile+Views" alt="Profile Views" /></p>
+<p align="right"><a href="https://user-badge.committers.top/moldova/MihaiCulbida"><img src="https://user-badge.committers.top/moldova/MihaiCulbida.svg" alt="committers.top badge" /></a>&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=MihaiCulbida&color=007ec6&style=flat&label=Profile+Views" alt="Profile Views" /></p>
 </div>
 
